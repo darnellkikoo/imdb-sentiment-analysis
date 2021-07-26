@@ -1,2 +1,1 @@
-"# imdb-sentiment-analysis" 
-"# imdb-sentiment-analysis" 
+My first Natural Language Processing(NLP) Project using deep learning.
